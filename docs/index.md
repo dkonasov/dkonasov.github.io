@@ -1,0 +1,7 @@
+---
+pageType: home
+
+hero:
+  name: Hello!
+  text: My name is Dmitrii Konasov and you are on my personal homepage. For now it's just a simple stub, but soon you may find here more intresting content about web, 3D graphics and similar stuff.
+---
